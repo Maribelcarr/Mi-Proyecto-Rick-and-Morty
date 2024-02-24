@@ -1,0 +1,25 @@
+
+    
+    
+.form-check{
+    background-color: #344d67;
+    border-radius: 8px;
+    color: #6eccaf;
+    width: 216px;
+    
+    }
+    
+    
+    
+    
+    
+    .form-check-input{
+    background-color: #b1f0dc;
+    align-items: center;
+     }
+
+     .form-check-label{
+      display: inline-block;
+       text-align: center;
+       
+     }

@@ -1,0 +1,40 @@
+.list-group{
+background-color: #223142;
+width: fit-content;
+color: white;
+height: 334px;
+width: 350px;
+
+
+
+}
+
+.list-group-item {
+    background-color: #223142;
+    color: white;
+    height: 90px;
+
+}
+
+
+
+
+
+
+.more-info-section{
+
+background-color:#223142 ;
+
+}
+
+
+
+.btn-sucess{
+background-color: #6eccaf;
+color: #344d67;
+flex-direction: column;
+justify-content: flex-end;
+margin-left: 300px;
+margin-top: 30px;
+margin-bottom: 30px;
+}

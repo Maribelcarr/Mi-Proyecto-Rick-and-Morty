@@ -1,0 +1,54 @@
+.card{
+
+    background-color: #223141;
+    width: fit-content;
+
+}
+
+
+.p-2{
+padding: 5rem;
+
+}
+
+.m2{
+margin: 5rem;
+
+}
+
+
+
+.align-items-center{
+
+align-items: center;
+}
+
+
+.justify-content-between{
+justify-content: space-between;
+
+}
+
+.flex-row{
+flex-direction: row;
+}
+
+.d-flex{
+
+    display: flex;
+}
+
+.NombrePersonaje{
+text-align: center;
+
+
+}
+
+#botonshowmore{
+position: relative;
+left: 150px;
+width: 116px;
+height: 38px;
+background-color: #6eccaf;
+color: #344d67;
+}

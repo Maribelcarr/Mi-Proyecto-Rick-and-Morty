@@ -1,0 +1,22 @@
+
+.contenedorboton{
+display: flex;
+
+
+}
+
+
+
+
+.btn-inicio{
+
+    background-color: #344d67;
+    color: #6eccaf;
+    padding: 15px;
+    text-align: center;
+    width: 113px;
+    height: 56px;
+    margin: 20px 20px;
+    
+}
+

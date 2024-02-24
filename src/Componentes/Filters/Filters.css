@@ -1,0 +1,33 @@
+
+.contenedorTituloFilters{
+
+justify-content: start;
+align-items: center;
+
+}
+
+
+.ListFilters{
+
+display: flex;
+color: blue;
+justify-content: space-around;
+height: 40px;
+margin-bottom: 45px;
+flex-wrap: wrap;
+
+
+}
+
+
+
+.TituloFilters{
+
+    color: #344d67;
+    font-size: 30px;
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+    margin-left: 30px;
+    margin-top: 55px;
+}
